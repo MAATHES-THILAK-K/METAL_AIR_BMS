@@ -1,10 +1,16 @@
-# Metal-Air Single Cell Battery Management System (BMS)
+# 🔋 Metal-Air Single Cell Battery Management System (BMS)
+
+![License: PolyForm Noncommercial 1.0.0](https://img.shields.io/badge/License-PolyForm%20Noncommercial%201.0.0-blue)
+![Firmware Version](https://img.shields.io/badge/Firmware-v3.2-green)
+![Project Status](https://img.shields.io/badge/Status-Active-brightgreen)
 
 <p align="center">
-  <img src="Images/ISOMETRIC.png" alt="PCB Render" width="700">
+  <img src="https://github.com/MAATHES-THILAK-K/METAL_AIR_BMS/blob/main/IMAGES/ISOMETRIC.png" alt="PCB Render" width="700">
 </p>
 
-## Overview
+---
+
+## 📖 Overview
 
 The **Metal-Air Single Cell Battery Management System (BMS)** is a custom embedded system designed to safely monitor and protect a single-cell Metal-Air battery. The project is built around the **STM32G0B1CBT6** microcontroller and provides real-time monitoring of battery voltage, current, temperature, and hydrogen gas concentration while implementing multiple protection mechanisms to ensure reliable battery operation.
 
@@ -12,7 +18,7 @@ The repository contains the complete embedded firmware, hardware design files, P
 
 ---
 
-## Key Features
+## ✨ Key Features
 
 * STM32G0B1CBT6 Microcontroller
 * INA226 High-Precision Current & Bus Voltage Monitoring
@@ -29,7 +35,7 @@ The repository contains the complete embedded firmware, hardware design files, P
 
 ---
 
-## System Architecture
+## 🏗️ System Architecture
 
 ```text
                   +----------------------------+
@@ -62,7 +68,7 @@ The repository contains the complete embedded firmware, hardware design files, P
 
 ---
 
-## Hardware
+## 🔧 Hardware
 
 ### Microcontroller
 
@@ -85,7 +91,7 @@ The repository contains the complete embedded firmware, hardware design files, P
 
 ---
 
-## Firmware
+## 💻 Firmware
 
 The embedded firmware continuously performs the following tasks:
 
@@ -100,7 +106,7 @@ The embedded firmware continuously performs the following tasks:
 
 ---
 
-## Project Structure
+## 📂 Project Structure
 
 ```text
 Metal-Air-Single-Cell-BMS/
@@ -134,7 +140,7 @@ Metal-Air-Single-Cell-BMS/
 
 ---
 
-## Getting Started
+## 🚀 Getting Started
 
 ### Hardware
 
@@ -154,7 +160,7 @@ Upload the firmware using:
 
 ---
 
-## Applications
+## 🎯 Applications
 
 * Metal-Air Battery Research
 * Battery Safety Systems
@@ -165,10 +171,13 @@ Upload the firmware using:
 
 ---
 
-## Author
+## 👨‍💻 Author
 
 **KMT**
 
 Electronics and Communication Engineering
 
 Anna University, MIT Campus, Chennai
+
+---
+⭐ If you found this project useful, consider giving it a **Star**!
