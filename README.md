@@ -1,5 +1,4 @@
-# 🔋 Metal-Air Single Cell Battery Management System (BMS)
-
+# 🔋 Metal-Air Single Cell Battery Management System 
 ![License: PolyForm Noncommercial 1.0.0](https://img.shields.io/badge/License-PolyForm%20Noncommercial%201.0.0-blue)
 ![Firmware Version](https://img.shields.io/badge/Firmware-v3.2-green)
 ![Project Status](https://img.shields.io/badge/Status-Active-brightgreen)
