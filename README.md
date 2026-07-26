@@ -5,7 +5,7 @@
 ![Project Status](https://img.shields.io/badge/Status-Active-brightgreen)
 
 <p align="center">
-  <img src="https://github.com/MAATHES-THILAK-K/METAL_AIR_BMS/blob/main/IMAGES/ISOMETRIC.png" alt="PCB Render" width="700">
+  <img src="https://raw.githubusercontent.com/MAATHES-THILAK-K/METAL_AIR_BMS/main/IMAGES/ISOMETRIC.png" alt="PCB Render" width="700">
 </p>
 
 ---
