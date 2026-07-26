@@ -173,7 +173,7 @@ Upload the firmware using:
 
 ## 👨‍💻 Author
 
-**KMT**
+**MAATHES THILAK K**
 
 Electronics and Communication Engineering
 
