@@ -1,7 +1,7 @@
 # Metal-Air Single Cell Battery Management System (BMS)
 
 <p align="center">
-  <img src="Images/PCB_Render.png" alt="PCB Render" width="700">
+  <img src="Images/ISOMETRIC.png" alt="PCB Render" width="700">
 </p>
 
 ## Overview
